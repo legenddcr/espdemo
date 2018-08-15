@@ -1,1 +1,1 @@
-{"title":"espdemo","initCmd":"yo aliyun-iot:project aos esp32devkitc false false false","buildCmd":"iotcli build","runCmd":"iotcli run"}
+{"title":"espdemo","initCmd":"yo aliyun-iot:project fos esp32devkitc false false false","buildCmd":"iotcli build","runCmd":"iotcli run"}
